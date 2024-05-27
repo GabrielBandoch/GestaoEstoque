@@ -47,6 +47,9 @@ Durante o desenvolvimento deste projeto, adquiri conhecimentos e habilidades imp
 
 ## Requisitos e Critérios de Aceitação
 
+[Critérios de Aceitação](https://github.com/GabrielBandoch/GestaoEstoque/blob/master/Imagens/Controle%20de%20Estoque.pdf)
+
+
 ### Cadastro de Clientes
 - **História do usuário**: Como dono de uma loja de roupas, quero cadastrar novos clientes para manter um registro atualizado das informações.
 - **Critérios de aceitação**:
