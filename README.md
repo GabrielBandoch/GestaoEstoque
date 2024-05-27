@@ -43,7 +43,7 @@ Durante o desenvolvimento deste projeto, adquiri conhecimentos e habilidades imp
 
 ## Imagem do Teste Executado
 
-![Teste Executado](https://github.com/GabrielBandoch/GestaoEstoque/Imagens/testesExecutados.png)
+![Teste Executado](https://github.com/GabrielBandoch/GestaoEstoque/blob/master/Imagens/testesExecutados.png)
 
 ## Requisitos e Critérios de Aceitação
 
